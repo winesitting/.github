@@ -4,7 +4,7 @@ about: Créer un rapport de bug
 title: ''
 labels: bug, Default prio
 assignees: ''
-
+type: Bug
 ---
 
 **Décrire le bug**
