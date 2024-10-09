@@ -4,7 +4,7 @@ about: Suggérer une idée
 title: ''
 labels: enhancement, Default prio
 assignees: ''
-
+type: Enhancement
 ---
 
 **Est ce que la fonctionnalité est liée à un problème ? Décrire.**
