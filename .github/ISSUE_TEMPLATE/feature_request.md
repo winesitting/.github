@@ -1,9 +1,6 @@
 ---
 name: 🧠 Demande de fonctionnalité
 about: Suggérer une idée
-title: ''
-labels: enhancement, Default prio
-assignees: ''
 type: Enhancement
 ---
 
